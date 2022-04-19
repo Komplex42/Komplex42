@@ -1,0 +1,13 @@
+![6dd9c4b6-c40f-4ba5-8fff-2d3c66e774bb](https://user-images.githubusercontent.com/103984757/163976710-6beb0cbb-50c0-4ee3-bf29-3ff2c6e3e3b8.jpg)
+- 👋 Hi, I’m @Komplex42
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Komplex42/Komplex42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![6dd9c4b6-c40f-4ba5-8fff-2d3c66e774bb](https://user-images.githubusercontent.com/103984757/163976808-0fd65cf9-1e2e-4999-b0c4-e8db4ac33e60.jpg)
+![6dd9c4b6-c40f-4ba5-8fff-2d3c66e774bb](https://user-images.githubusercontent.com/103984757/163976944-386abcb0-13e3-4fce-9cae-efd2c4bad160.jpg)
